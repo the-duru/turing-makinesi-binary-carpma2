@@ -1,5 +1,5 @@
+https://github.com/the-duru/turing-makinesi-binary-carpma2
 # Turing Makinesi ile Araç Plaka Formatı Tanıyıcı — Proje Raporu
-
 ## 1. Problem tanımı
 
 Araç plakalarının belirli bir biçimde olup olmadığını kontrol eden sistemler, girdiyi karakter karakter okuyarak format kurallarına uygunluğu doğrular. Bu projede aynı mantık, **Turing Makinesi (TM)** modeli ile Python’da simüle edilmiştir.
