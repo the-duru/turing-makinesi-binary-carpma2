@@ -1,4 +1,5 @@
 https://github.com/the-duru/turing-makinesi-binary-carpma2
+Youtube Video Linki https://www.youtube.com/watch?v=KDNkxZOn1OY
 # Turing Makinesi ile Araç Plaka Formatı Tanıyıcı — Proje Raporu
 ## 1. Problem tanımı
 
